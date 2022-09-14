@@ -52,3 +52,5 @@ p <- data%>%rename("Survived"=s.num,"Infected"=i.num,"Recovered"=r.num)%>%
   transition_reveal(time)
 
 animate(p)
+
+anim_save(filename = "epianim.gif", animation = last_animation())
