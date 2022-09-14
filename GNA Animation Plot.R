@@ -3,7 +3,7 @@ library(gganimate)
 library(latticeExtra)
 library(EpiModel)
 
-#### 1 ####
+
 
 #Generating networks
 
