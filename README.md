@@ -1,2 +1,4 @@
 # EPI-Model-Animation
-Animation of model simulation uning gganimate
+Animation of `epimodel` model simulation uning `gganimate`.
+
+
